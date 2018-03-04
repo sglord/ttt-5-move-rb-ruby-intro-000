@@ -13,6 +13,6 @@ colors = ["red", "Green", "Blue"]
 
 puts "What is your new fav color?"
 new_fav = gets.strip
-colors[new_fav]
+#colors[new_fav]
 puts colors
 
