@@ -10,7 +10,7 @@
 
 
 colors = ["red", "Green", "Blue"]
-
+puts "These are my favorite colors!"
 puts colors
 puts "What is your new fav color?"
 new_fav = gets.strip
