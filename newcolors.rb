@@ -12,6 +12,6 @@
 colors = ["red", "Green", "Blue"]
 
 puts "What is your new fav color?"
-new_fav = gets.strip.to_i
+new_fav = gets.strip
 puts new_fav
 #colors[new_fav]
