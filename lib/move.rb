@@ -9,6 +9,11 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
+puts "Welcome to Tic Tac Toe!"
+puts "Where would you like to go?"
+position = gets.strip
+player = "x"
+board[position.to_i] = player
 
 display_board(board)
 
