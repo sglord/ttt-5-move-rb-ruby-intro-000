@@ -20,5 +20,5 @@ board[position.to_i] = player
 
 display_board(board)
 
-end
+e
 # code your input_to_index and move method here!
