@@ -18,7 +18,7 @@ new_fav = gets.strip
 #how to make colors[1]=new_fav=red
 
 
-colors[new_fav]
+colors[0]
 
 
 
