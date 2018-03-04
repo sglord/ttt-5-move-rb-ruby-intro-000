@@ -24,6 +24,10 @@ colors[0] = new_fav
 puts colors
 
 #here are my colors (heres the empty board Arrays)
+puts "here are colors i like"
+puts colors
 #what is a colors you like? (where do you want to place X?)
+puts "what is a colors you like?"
 #gets
+colors_liked = gets.strip
 #how to get aray location from input
