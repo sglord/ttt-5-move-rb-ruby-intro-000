@@ -1,5 +1,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
-
+puts "Welcome to Tic Tac Toe!"
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
@@ -9,7 +9,7 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-puts "Welcome to Tic Tac Toe!"
+
 puts "Where would you like to go?"
 position = gets.strip
 player = "x"
