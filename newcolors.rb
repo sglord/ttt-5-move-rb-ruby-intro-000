@@ -17,7 +17,7 @@ puts "What is your new fav color?"
 new_fav = gets.strip
 #new_fav=red
 #how to make colors[1]=new_fav=red
-#colors[new_fav]
+#how to make new_fav = colors [#]
 
 colors[0] = new_fav
 
