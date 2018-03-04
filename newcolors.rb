@@ -1,17 +1,16 @@
 #colors for practicing Arrays
 
-colors = ["red", "Green", "Blue"]
+#colors = ["red", "Green", "Blue"]
 
-def coloring_book(colors)
+#def coloring_book(colors)
   puts "#{colors[0]}"
-end
+#end
 
-coloring_book
+#coloring_book
 
 
 
 puts "What is your new fav color?"
 new_fav = gets.strip.to_i
 
-colors[new_fav]
-puts
+#colors[new_fav]
