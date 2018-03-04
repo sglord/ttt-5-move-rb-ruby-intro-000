@@ -23,3 +23,7 @@ colors[0] = new_fav
 
 puts colors
 
+#here are my colors (heres the empty board Arrays)
+#what is a colors you like? (where do you want to place X?)
+#gets
+#how to get aray location from input
