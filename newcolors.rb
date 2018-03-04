@@ -7,3 +7,11 @@ def coloring_book(colors)
 end
 
 coloring_book
+
+
+
+puts "What is your new fav color?"
+new_fav = gets.strip.to_i
+
+colors[new_fav]
+puts
