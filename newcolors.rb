@@ -14,7 +14,11 @@ puts "These are my favorite colors!"
 puts colors
 puts "What is your new fav color?"
 new_fav = gets.strip
-#colors[new_fav]
+#new_fav=red
+#how to make colors[1]=new_fav=red
+
+
+colors[new_fav]
 
 
 
