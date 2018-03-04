@@ -11,6 +11,9 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
+
+
+
 display_board(board)
 puts "turn 1"
 puts "Where would you like to go?"
