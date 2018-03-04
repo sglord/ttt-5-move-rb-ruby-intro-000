@@ -10,7 +10,7 @@ def display_board(board)
 end
 
 
-display_board(position)
+display_board(board)
 
 
 # code your input_to_index and move method here!
