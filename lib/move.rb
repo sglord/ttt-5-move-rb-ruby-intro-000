@@ -16,7 +16,7 @@ puts "turn 1"
 puts "Where would you like to go?"
 position = gets.strip
 player = "x"
-board[position.to_i] = player
+board[position.to_i-1] = player
 
 display_board(board)
 puts "turn 2"
