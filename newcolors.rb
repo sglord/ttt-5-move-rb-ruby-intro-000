@@ -10,18 +10,18 @@
 
 
 colors = ["red", "Green", "Blue"]
-puts "These are my favorite colors!"
-puts colors
-puts "What is your new fav color?"
+#puts "These are my favorite colors!"
+#puts colors
+#puts "What is your new fav color?"
 
-new_fav = gets.strip
+#new_fav = gets.strip
 #new_fav=red
 #how to make colors[1]=new_fav=red
 #how to make new_fav = colors [#]
 
-colors[0] = new_fav
+#colors[0] = new_fav
 
-puts colors
+#puts colors
 
 #here are my colors (heres the empty board Arrays)
 puts "here are colors i like"
