@@ -22,9 +22,3 @@ def move(board, position, char="X")
 end
 
 # code your input_to_index and move method here!
-
-display_board(board)
-puts "turn 1"
-puts "Where would you like to go?"
-position = gets.strip
-player = "x"
