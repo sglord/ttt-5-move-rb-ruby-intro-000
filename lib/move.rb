@@ -10,5 +10,5 @@ def display_board(board)
 end
 
 
-
+display_board(2)
 # code your input_to_index and move method here!
