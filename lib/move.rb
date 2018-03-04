@@ -11,4 +11,10 @@ end
 
 
 display_board(11)
+
+new_fav = gets.strip.to_i
+
+colors[new_fav]
+puts colors
+
 # code your input_to_index and move method here!
