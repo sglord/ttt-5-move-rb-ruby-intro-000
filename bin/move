@@ -7,7 +7,7 @@ puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 position = gets.strip
 player = "x"
-
+board[position.to_i] =
 
 board(user_move)=
 
