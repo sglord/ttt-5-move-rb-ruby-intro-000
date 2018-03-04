@@ -8,10 +8,6 @@ board = [" "," "," "," "," "," "," "," "," "]
 puts "Where would you like to go?"
 input = gets.strip
 
-position = gets.strip
-player = "x"
-board[position.to_i] = player
-
 
 
 # Code your CLI Here
