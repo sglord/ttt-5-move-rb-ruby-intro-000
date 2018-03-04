@@ -33,5 +33,5 @@ colors_liked = gets.strip
 #how to get aray location from input
 
 colors[2] = colors_liked
-
+puts "your liked colors are"
 puts colors
