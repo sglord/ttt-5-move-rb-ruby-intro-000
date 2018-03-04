@@ -22,5 +22,5 @@ colors[new_fav]
 
 
 
-puts colors
+#puts colors
 
