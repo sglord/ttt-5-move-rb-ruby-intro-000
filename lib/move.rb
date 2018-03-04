@@ -23,28 +23,14 @@ puts "turn 2"
 puts "Where would you like to go?"
 position = gets.strip
 player = "o"
-board[position.to_i] = player
+board[position.to_i-1] = player
 
 display_board(board)
 puts "turn 3"
 puts "Where would you like to go?"
 position = gets.strip
 player = "x"
-board[position.to_i] = player
-
-display_board(board)
-puts "turn 4"
-puts "Where would you like to go?"
-position = gets.strip
-player = "o"
-board[position.to_i] = player
-
-display_board(board)
-puts "turn 5"
-puts "Where would you like to go?"
-position = gets.strip
-player = "x"
-board[position.to_i] = player
+board[position.to_i-1] = player
 
 display_board(board)
 
